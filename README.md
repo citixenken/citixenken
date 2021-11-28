@@ -25,7 +25,7 @@
 
 
 [twitter]: https://twitter.com/citixenken
-[linkedin]: www.linkedin.com/in/ken-muyesu
+[linkedin]: https://linkedin.com/in/ken-muyesu
 [Swift]: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 [iOS]: https://www.apple.com/ios/ios-15/
 [Github]: https://github.com/
