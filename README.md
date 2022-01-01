@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Focus-iOS%2C%20blockchain-blue" />
+  <img src="https://img.shields.io/badge/Focus-iOS%2C%20Ethereum-blue" />
   <img src="https://img.shields.io/badge/Loves-Tea-yellowgreen" />
 </p>
 
@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/citixenken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcitixenken&screen_name=citixenken)
 
 <p align="center">
-  <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20iOS%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20iOS%20Developer;Blockchain%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 - 😎 Passionate about iOS development and always learning something new on the subject matter.
