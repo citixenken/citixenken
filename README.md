@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact: I consider myself a tea connoisseur (of sorts)😀, having spent half a decade(in my previous life) perfecting the art of making wholesome specialty teas. 🍵🫖
 
+<br><br>
+
 <a href="https://github.com/citixenken/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=citixenken&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 <br><br>
 
@@ -33,6 +35,7 @@
 <a href="https://github.com/citixenken/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citixenken&theme=highcontrast&layout=compact" />
 </a>
+
 <br><br>
 
 ### Connect with me:
