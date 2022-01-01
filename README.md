@@ -44,8 +44,8 @@
 
 ### Languages and Tools:
 [<img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift]
-[<img align="left" alt="iOS" width="30px" src="https://img.icons8.com/ios/344/ios-logo.png" />][iOS]
-[<img align="left" alt="Github" width="30px" src="https://img.icons8.com/ios/344/github-2.png" />][Github]
+[<img align="left" alt="iOS" width="30px" src="https://img.icons8.com/color/48/000000/ios-logo.png" />][iOS]
+[<img align="left" alt="Github" width="30px" src="https://img.icons8.com/color/48/000000/github-2.png" />][Github]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 
 
