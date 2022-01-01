@@ -1,6 +1,17 @@
-## Hi there 👋 I'm Ken - aka [citixenken][twitter]
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Focus-iOS%2C%20blockchain-blue" />
+  <img src="https://img.shields.io/badge/Loves-Tea-yellowgreen" />
+</p>
+
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ken - [citixenken][twitter]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/citixenken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcitixenken&screen_name=citixenken)
+
+<p align="center">
+  <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20iOS%20Developer;Blockchain%20Enthusiast;Tea%20Connoisseur...of sorts ;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+</p>
 
 ## I'm an iOS dev...
 
@@ -9,10 +20,27 @@
 
 - ⚡ Fun fact: I consider myself a tea connoisseur (of sorts)😀, having spent half a decade(in my previous life) perfecting the art of making wholesome specialty teas. 🍵🫖
 
+<a href="https://github.com/citixenken/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=citixenken&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+<br><br>
+
+<a href="https://github.com/citixenken/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citixenken&show_icons=true&hide=contribs,prs&theme=highcontrast" />
+</a><br><br
+            
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=citixenken&theme=highcontrast" />
+</a>
+<br><br>
+
+<a href="https://github.com/citixenken/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citixenken&theme=highcontrast&layout=compact" />
+</a>
+<br><br>
+
 ### Connect with me:
 
-[<img align="left" alt="citixenken | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="citixenken | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="citixenken | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="citixenken | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
 
