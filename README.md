@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/citixenken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcitixenken&screen_name=citixenken)
 
 <p align="center">
-  <a href="https://github.com/lynnemunini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Python%20Developer;Data%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://github.com/lynnemunini/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm an iOS developer...;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 ## I'm an iOS dev...
