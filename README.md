@@ -13,11 +13,6 @@
   <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20iOS%20Developer;Blockchain%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
-- 😎 Passionate about iOS development and always learning something new on the subject matter.
-- 👯 Looking to collaborate with other iOS devs locally and beyond.
-
-- ⚡ Fun fact: I consider myself a tea connoisseur (of sorts)😀, having spent half a decade(in my previous life) perfecting the art of making wholesome specialty teas. 🍵🫖
-
 <br><br>
 
 <a href="https://github.com/citixenken/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=citixenken&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
