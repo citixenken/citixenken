@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Focus-iOS%2C%20Ethereum-blue" />
+  <img src="https://img.shields.io/badge/Focus-iOS-blue" />
   <img src="https://img.shields.io/badge/Loves-Orthodox%20Tea-yellowgreen" />
 </p>
 
@@ -15,7 +15,7 @@
 
 <br><br>
 
-<a href="https://github.com/citixenken/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=citixenken&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/citixenken/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=citixenken&count_private=true&bg_color=1F222E&show_icons=true&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 <br><br>
 
 <a href="https://github.com/citixenken/github-readme-stats">
