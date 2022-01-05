@@ -19,7 +19,7 @@
 <br><br>
 
 <a href="https://github.com/citixenken/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citixenken&show_icons=true&hide=contribs,prs&theme=javascript-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citixenken&show_icons=true&hide=contribs,prs&theme=high-contrast" />
 </a><br><br
             
 <a href="https://git.io/streak-stats">
