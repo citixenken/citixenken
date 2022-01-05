@@ -23,7 +23,7 @@
 </a><br><br
             
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=citixenken&theme=highcontrast" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=citixenken&theme=dark" />
 </a>
 <br><br>
 
