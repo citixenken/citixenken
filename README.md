@@ -2,7 +2,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/Focus-iOS%2C%20Ethereum-blue" />
-  <img src="https://img.shields.io/badge/Loves-Orthodox-Tea-yellowgreen" />
+  <img src="https://img.shields.io/badge/Loves-Orthodox%20%Tea-yellowgreen" />
 </p>
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ken - [citixenken][twitter]
