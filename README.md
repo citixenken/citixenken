@@ -19,16 +19,16 @@
 <br><br>
 
 <a href="https://github.com/citixenken/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citixenken&show_icons=true&hide=contribs,prs&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citixenken&show_icons=true&hide=contribs,prs&theme=default" />
 </a><br><br
             
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=citixenken&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=citixenken&theme=javascript" />
 </a>
 <br><br>
 
 <a href="https://github.com/citixenken/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citixenken&theme=highcontrast&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citixenken&theme=github-dark&layout=compact" />
 </a>
 
 <br><br>
