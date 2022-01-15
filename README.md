@@ -13,25 +13,7 @@
   <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20iOS%20Developer;Blockchain%20Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
-<br><br>
 
-<a href="https://github.com/citixenken/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=citixenken&count_private=true&bg_color=1F222E&show_icons=true&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
-<br><br>
-
-<a href="https://github.com/citixenken/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=citixenken&show_icons=true&hide=contribs,prs&theme=high-contrast" />
-</a><br><br
-            
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=citixenken&theme=default" />
-</a>
-<br><br>
-
-<a href="https://github.com/citixenken/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=citixenken&theme=vue-dark&layout=compact" />
-</a>
-
-<br><br>
 
 ### Connect with me:
 
