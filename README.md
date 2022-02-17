@@ -2,7 +2,6 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/Focus-iOS-red" />
-  <img src="https://img.shields.io/badge/Focus-Android-green" />
   <img src="https://img.shields.io/badge/Loves-Orthodox%20Tea-blue" />
 </p>
 
@@ -11,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/citixenken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcitixenken&screen_name=citixenken)
 
 <p align="center">
-  <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Apps%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=iOS%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 
@@ -25,8 +24,6 @@
 ### Languages and Tools:
 [<img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][Swift]
 [<img align="left" alt="iOS" width="30px" src="https://img.icons8.com/color/48/000000/ios-logo.png" />][iOS]
-[<img align="left" alt="Kotlin" width="30px" src="https://img.icons8.com/color/48/000000/kotlin.png" />][Kotlin]
-[<img align="left" alt="Android" width="30px" src="https://img.icons8.com/color/48/000000/android-os.png" />][Android]
 [<img align="left" alt="Github" width="30px" src="https://img.icons8.com/color/48/000000/github-2.png" />][Github]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 
@@ -37,7 +34,6 @@
 [iOS]: https://www.apple.com/ios/ios-15/
 [Github]: https://github.com/
 [Git]: https://git-scm.com/
-[Kotlin]: https://kotlinlang.org/
-[Android]: https://www.android.com/
+
 
 
