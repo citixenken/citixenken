@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Loves-Orthodox%20Tea-blue" />
 </p>
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ken - [citixenken][twitter]
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ken - [citixenken][linktree]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/citixenken?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcitixenken&screen_name=citixenken)
 
@@ -30,6 +30,7 @@
 
 [twitter]: https://twitter.com/citixenken
 [linkedin]: https://linkedin.com/in/ken-muyesu
+[linktree]: https://linktr.ee/citixenken
 [Swift]: https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
 [iOS]: https://www.apple.com/ios/ios-15/
 [Github]: https://github.com/
