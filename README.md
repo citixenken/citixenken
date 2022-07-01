@@ -27,7 +27,6 @@
 [<img align="left" alt="React" width="30px" src="https://img.icons8.com/bubbles/344/react.png" />][React]
 [<img align="left" alt="Ruby" width="30px" src="https://img.icons8.com/fluency/344/ruby-programming-language.png" />][Ruby]
 [<img align="left" alt="RoR" width="30px" src="https://download.logo.wine/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.png" />][RoR]
-[<img align="left" alt="Svelte" width="30px" src="https://img.icons8.com/doodle/344/svetle.png" />][Svelte]
 [<img align="left" alt="TailwindCSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />][TailwindCSS]
 [<img align="left" alt="Github" width="30px" src="https://img.icons8.com/color/48/000000/github-2.png" />][Github]
 [<img align="left" alt="vscode" width="30px" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" />][vscode]
