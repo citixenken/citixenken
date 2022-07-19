@@ -15,17 +15,20 @@
   <a href="https://github.com/citixenken/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
+<br/><br/> 
+
 ## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+<br/><br/> 
 
 ## Let's connect on:
 
 [<img align="left" alt="citixenken | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="citixenken | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
-<br />
+<br/><br/> 
 
 ## Languages and Tools:
 
@@ -38,14 +41,15 @@
 [<img align="left" alt="vscode" width="30px" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 
-<br />
-<br />
+<br/><br/> 
 
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=citixenken&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=citixenken&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=citixenken&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br/><br/> 
 
 ## ✍️ Random Dev Quote:
 
