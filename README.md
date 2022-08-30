@@ -1,8 +1,8 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Focus-JavaScript-red" />
-  <img src="https://img.shields.io/badge/Loves-Lord%20of%20the%20Rings-blue" />
+  <img src="https://img.shields.io/badge/Focus-JavaScript%20%26%20Ruby-red" />
+  <img src="https://img.shields.io/badge/Loves-Lord%20of%20the%20Rings%20%26%20Interstellar-blue" />
 </p>
 
 
