@@ -51,11 +51,6 @@
 
 <br/><br/> 
 
-## ✍️ Random Dev Quote:
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
 
 [twitter]: https://twitter.com/citixenken
 [linkedin]: https://linkedin.com/in/ken-muyesu
